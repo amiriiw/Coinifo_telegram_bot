@@ -1,3 +1,0 @@
-axios
-mysql2
-node-telegram-bot-api

@@ -1,3 +1,4 @@
 pg
 axios
+dotenv
 node-telegram-bot-api

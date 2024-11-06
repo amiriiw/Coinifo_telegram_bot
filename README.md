@@ -106,7 +106,7 @@ The bot relies on the following Node.js packages:
 - **[node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api)**: Interface for interacting with the Telegram Bot API.
 - **[pg](https://node-postgres.com/)**: PostgreSQL client for managing the database.
 - **[axios](https://axios-http.com/)**: HTTP client for making requests to CoinMarketCap’s API.
-- **dotenv**: Loads environment variables for secure access to sensitive information.
+- **[dotenv](https://www.dotenv.org/docs/)**: Loads environment variables for secure access to sensitive information.
 
 Install these dependencies by running:
 ```bash

@@ -33,7 +33,7 @@ To set up this bot on your local machine, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/amiriiw/Coinifo_telegram_bot
-   cd telegram-crypto-bot
+   cd coinifo-telegram-bot
    cd Coinifo-bot
    ```
 
